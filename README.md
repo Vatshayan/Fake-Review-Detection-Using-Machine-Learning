@@ -21,6 +21,6 @@ Fake Review Detection Using Machine Learning with source code and documents. It 
 
 Mail/Message me for Projects Help 🙏🏻
 
-### Contact me for any kind of help on blockchain projects.
+### Contact me for any kind of help projects.
 
 ### Youtube Video : https://youtu.be/pGN0xFWfVNQ?si=gtd7ayvP5gvFlnIX
